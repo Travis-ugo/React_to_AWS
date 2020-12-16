@@ -7,7 +7,7 @@ export default function App() {
       <h1>Travis-ugo</h1>
       <h2>First React Application</h2>
       <p>Hey home Boy. Deploy to AWS Asap</p>
-      <p>Hey home Boy. Deploy to AWS Asap</p>
+      <p>Hey home Boy. HotSauce</p>
     </div>
   );
 }

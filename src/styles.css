@@ -2,7 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
-h2{
-  color: green;
+background {
+  color: black;
+}
+h2 {
+  color: black;
   font-size: 16px;
 }
